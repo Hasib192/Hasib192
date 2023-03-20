@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasib
 - 👀 I’m interested in Website Development.
-- 🌱 I’m currently learning PHP, MySQL
+- 🌱 I’m currently learning PHP, JavaScript
 - 💞️ I’m looking to collaborate on Open Source System
 - 📫 How to reach me? Mail me at: hasibhosen7612@gmail.com
 
