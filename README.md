@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects and experiences are available at: [[Website coming soon]]()
 
-- 💬 Ask me about: **Web development, APIs, JavaScript frameworks, and PHP**
+<!-- - 💬 Ask me about: **Web development, APIs, JavaScript frameworks, and PHP** -->
 
 - 📫 How to reach me: **hasibhosen7612@gmail.com**
 
@@ -40,7 +40,7 @@
   </a>
   <!-- beecrowd -->
   <a href="https://judge.beecrowd.com/en/profile/66619" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Hasib192/Hasib192/blob/main/logos/beecrowd.svg?raw=true" alt="beecrowd" height="40" />
+    <img src="https://github.com/Hasib192/Hasib192/blob/main/logos/beecrowd.svg?raw=true" alt="beecrowd" height="30" />
   </a>
 </p>
 
@@ -135,7 +135,9 @@
   </a>
 </div>
 
+---
 <h3 align="left">Recent Activity:</h3>
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#12068](https://github.com/simple-icons/simple-icons/pull/12068) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 2. ❗ Opened issue [#722](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/722) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
@@ -144,7 +146,7 @@
 5. 🗣 Commented on [#8539](https://github.com/simple-icons/simple-icons/issues/8539#issuecomment-2356474006) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
-<br/><br/>
+---
 
 <div align="middle">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -154,12 +156,12 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasib192&layout=compact&langs_count=8&card_width=320" />
   </a>
 
-<br/><br/>
-
+<p>
 <!---
 Hasib192/Hasib192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://komarev.com/ghpvc/?username=hasib192&color=blue&style=flat-square)
+</p>
 </div>
