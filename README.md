@@ -137,7 +137,6 @@
 
 <h3 align="left">Recent Activity:</h3>
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <br/><br/>
@@ -150,7 +149,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasib192&layout=compact&langs_count=8&card_width=320" />
   </a>
 
-<br/>
+<br/><br/>
 
 <!---
 Hasib192/Hasib192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
